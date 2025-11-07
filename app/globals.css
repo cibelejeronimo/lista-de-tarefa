@@ -1,0 +1,15 @@
+/* app/globals.css */
+@import "tailwindcss";
+
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+  color: #333;
+  margin: 0;
+  padding: 20px;
+}
+
+input, select, button {
+  margin: 5px;
+  padding: 8px;
+}
